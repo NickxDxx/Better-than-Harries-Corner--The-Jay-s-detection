@@ -19,8 +19,8 @@ Jay's -- 3 direction corners :
 ![Screenshot 2023-04-24 091741](https://user-images.githubusercontent.com/124453554/233894260-58015525-923b-4170-8b7d-ec07efc996d5.png)
 only 502 detected.
 
-first original, same axisx Jay's(myself): Already upsample as much as possible, with 2136 corners detected, actually are edges even not corner.
-downside harries corner. The falilure? 
+first original, same axisx Jay's, myself detection: Same detecting ratio with 3 direction with 2136 corners detected.
+downside is harries corner. The falilure? 
 ![Screenshot 2023-04-24 091351](https://user-images.githubusercontent.com/124453554/233894638-667131be-b631-46ee-8471-4de5cb285d28.png)
 
 Conclusion my design is better, i don't care about parmaters.
