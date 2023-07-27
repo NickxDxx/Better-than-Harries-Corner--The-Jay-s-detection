@@ -1,4 +1,4 @@
-# Better-than-Harries-Corner-Jay-s-detection
+# Difference with J's detection - my own detection, and harries corner
 Self-creation multi-use Jay's pixel detect.
 Used box blurred chess plate for edge detecting testing.
 
