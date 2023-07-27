@@ -13,17 +13,7 @@ Jay's:
 
 
 
-Bigger image: Both Box Blured. Harries corner directly failure.
-
-Jay's -- lower ratio :
-![Screenshot 2023-04-24 091741](https://user-images.githubusercontent.com/124453554/233894260-58015525-923b-4170-8b7d-ec07efc996d5.png)
-only 502 detected.
-
-Up Myself:
-Down Harries corner:
-The failure? 
-Myself detect 2136 corners with as low as possible ratios, when go higher with less corners to be detected.
-And Harries corner here are directly failure. Maybe need to adjust ratio. I dont care.
+ need to adjust ratio. I dont care.
 ![Screenshot 2023-04-24 091351](https://user-images.githubusercontent.com/124453554/233894638-667131be-b631-46ee-8471-4de5cb285d28.png)
 
 
