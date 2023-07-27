@@ -2,7 +2,7 @@
 Self-creation multi-use Jay's pixel detect.
 Used box blurred chess plate for edge detecting testing.
 
-Jay's:
+Jay's - normal ratio:
 
 ![Screenshot 2023-04-24 090821 (2)](https://user-images.githubusercontent.com/124453554/233893266-2e20b24f-56c7-4dbb-b151-83f72fe5a2d5.png)
 
